@@ -8,7 +8,7 @@
 #include <unistd.h>
 #include <stdbool.h>
 #include <linux/spi/spidev.h>
-
+// you mother fucker son of a bitch
 #include "devices.hpp"
 
 //BLDC GIMBAL MOTORS
